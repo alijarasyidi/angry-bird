@@ -1,2 +1,2 @@
-# angry-bird
+# Angry Bird
 Angry Bird Game
